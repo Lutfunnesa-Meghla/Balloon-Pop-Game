@@ -10,7 +10,6 @@ The Balloon Pop Game is a simple interactive game developed using Java. Balloons
 # Tools and Technologies
 Java
 Java Swing (GUI)
-AWT Event Handling
 Java Timer Class
 Object-Oriented Programming (OOP)
 Features
@@ -38,3 +37,12 @@ Balloons appear and move automatically.
 Player earns points by popping balloons.
 Game ends when the timer reaches zero.
 Final score is displayed to the player.
+## Week 1 Progress
+- Project selected.
+- Research completed.
+- Required software and tools identified.
+- Game features planned.
+- 10-week project plan prepared.
+
+
+
